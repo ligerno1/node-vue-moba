@@ -1,7 +1,5 @@
 # node-vue-moba
 node后端，vue后台和web前端
-
-# 【全栈之巅】Node.js + Vue.js 全栈开发王者荣耀手机端官网和管理后台
 本项目是 [Bilibili 全栈之巅](https://space.bilibili.com/341919508) 视频教程相关源码
 
 ## 一、 入门
